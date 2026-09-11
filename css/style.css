@@ -3,7 +3,7 @@ body {
         font-family: Arial, sans-serif;
         margin: 0;
         padding: 0;
-        background: linear-gradient(90deg, #f5f2eb 0%, #d7c9b1 40%, #064e3b 65%, #052e16 100%);        color: #333;
+        background-color: #f1f5f9;
     }
 
 header {
