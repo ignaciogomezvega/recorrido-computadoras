@@ -1,21 +1,20 @@
 
 body {
-    font-family: Arial, sans-serif;
+        font-family: Arial, sans-serif;
         margin: 0;
         padding: 0;
-        background: linear-gradient(90deg, #f5f2eb 50%, #0f172a 50%);
-        color: #333;
+        background: linear-gradient(90deg, #f5f2eb 0%, #d7c9b1 40%, #064e3b 65%, #052e16 100%);        color: #333;
     }
 
 header {
-    background-color: #1e293b;
+        background-color: #1e293b;
         color: white;
         text-align: center;
         padding: 20px 0;
     }
 
 .logo {
-        width: 60px;
+        width: 70px;
         height: auto;
     }
 
