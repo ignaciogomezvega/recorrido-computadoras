@@ -1,0 +1,93 @@
+
+body {
+    font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f6f9;
+        color: #333;
+    }
+
+header {
+    background-color: #1e293b;
+        color: white;
+        text-align: center;
+        padding: 20px 0;
+    }
+
+.logo {
+        width: 60px;
+        height: auto;
+    }
+
+header h1 {
+        margin: 10px 0 5px 0;
+        font-size: 2.2rem;
+    }
+
+header h2 {
+        margin: 0;
+        font-size: 1.2rem;
+        font-weight: 300;
+        color: #cbd5e1;
+    }
+
+nav {
+        background-color: #0f172a;
+        padding: 10px 0;
+        margin-top: 15px;
+    }
+
+nav a {
+        color: white;
+        text-decoration: none;
+        margin: 0 15px;
+        font-weight: bold;
+    }
+
+nav a:hover {
+        color: #38bdf8;
+    }
+
+main {
+        max-width: 900px;
+        margin: 20px auto;
+        padding: 0 20px;
+    }
+
+
+.inicio {
+        background: white;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        margin-bottom: 30px;
+    }
+
+
+.linea-tiempo {
+        background: white;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+.item-hito {
+        border-left: 4px solid #38bdf8;
+        padding-left: 15px;
+        margin: 20px 0;
+    }
+
+.item-hito h4 {
+        margin: 0 0 5px 0;
+        color: #0f172a;
+    }
+
+
+footer {
+        background-color: #1e293b;
+        color: white;
+        text-align: center;
+        padding: 15px 0;
+        margin-top: 40px;
+        font-size: 0.9rem;
+}
