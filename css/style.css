@@ -3,12 +3,12 @@ body {
     font-family: Arial, sans-serif;
         margin: 0;
         padding: 0;
-        background-color: #f4f6f9;
+        background: linear-gradient(90deg, #f5f2eb 50%, #0f172a 50%);
         color: #333;
     }
 
 header {
-    background: linear-gradient(90deg, #f5f2eb 50%, #0f172a 50%);
+    background-color: #1e293b;
         color: white;
         text-align: center;
         padding: 20px 0;
